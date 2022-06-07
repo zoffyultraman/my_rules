@@ -1,0 +1,19 @@
+# Ads in Video apps
+# > aiyue & pps
+HOST-SUFFIX,appapisdk.tanv.com,MyAdb
+HOST-SUFFIX,appsdk.tanv.com,MyAdb
+HOST-SUFFIX,extlog.snssdk.com,MyAdb
+HOST-SUFFIX,googleads.g.doubleclick.net,MyAdb
+HOST-SUFFIX,img.adnyg.com,MyAdb
+HOST-SUFFIX,img2.tanv.com,MyAdb
+HOST-SUFFIX,pgdt.ugdtimg.com,MyAdb
+HOST-SUFFIX,sss.bxmns.com,MyAdb
+HOST-SUFFIX,t.appsflyer.com,MyAdb
+HOST-SUFFIX,alogs.umengcloud.com,MyAdb
+HOST-SUFFIX,umeng.com,MyAdb
+HOST-SUFFIX,gdt.qq.com,MyAdb
+HOST-SUFFIX,ios.bugly.qq.com,MyAdb
+HOST-SUFFIX,dp3.qq.com,MyAdb
+HOST-SUFFIX,pingma.qq.com,MyAdb
+HOST-SUFFIX,sdk.e.qq.com,MyAdb
+HOST-SUFFIX,app-measurement.com,MyAdb
