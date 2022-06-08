@@ -22,7 +22,7 @@ HOST-SUFFIX,umeng.com,MyAdb
 HOST-SUFFIX,umengcloud.com,MyAdb
 HOST-SUFFIX,ulogs.umeng.com,MyAdb
 HOST-SUFFIX,ut.taobao.com,MyAdb
-DOMAIN,adashbc.ut.taobao.com,MyAdb
+HOST-SUFFIX,adashbc.ut.taobao.com,MyAdb
 HOST-SUFFIX,e.qq.com,MyAdb
 HOST-SUFFIX,sdk.e.qq.com,MyAdb
 HOST-SUFFIX,v.gdt.qq.com,MyAdb
