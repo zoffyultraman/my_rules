@@ -1,0 +1,6 @@
+payload:
+  # > IQIYI
+  # - USER-AGENT,*QIYI*
+  # - USER-AGENT,iQiYi*
+  - DOMAIN-SUFFIX,btschool.club
+  - DOMAIN-SUFFIX,pttime.org
